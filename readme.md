@@ -39,3 +39,12 @@
 </div>
 
 ###
+
+<h4 align="left">GitHub Stats</h4>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/1wnn/github-stats-transparent/main/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/1wnn/github-stats-transparent/main/generated/languages.svg" alt="Most Used Languages" />
+</div>
